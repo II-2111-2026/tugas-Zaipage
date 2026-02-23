@@ -32,7 +32,7 @@ A) Kapasitas total hard disk 1TB.
 B) Jumlah core pada prosesor Intel i7.
 C) Waktu yang dibutuhkan untuk merespons query database.
 D) Jumlah bit dalam satu byte."""
-    return 'C'
+    return "C"
 
 def q05() -> str:
     """[MC] Jika sebuah ruang sampel S terdiri dari 4 kejadian yang memiliki peluang sama,
@@ -42,7 +42,7 @@ A) 0,5
 B) 0,25
 C) 0,75
 D) 1,0"""
-    return 'B'
+    return "B"
 
 def q06() -> str:
     """[MC] Kejadian yang mustahil terjadi memiliki nilai probabilitas sebesar:
@@ -51,7 +51,7 @@ A) 0
 B) 1
 C) -1
 D) 0,5"""
-    return 'A'
+    return "A"
 
 def q07() -> str:
     """[MC] Sekumpulan hasil eksperimen yang merupakan subset dari ruang sampel disebut:
@@ -60,7 +60,7 @@ A) Populasi.
 B) Parameter.
 C) Kejadian (Event).
 D) Konstanta."""
-    return 'C'
+    return "C"
 
 def q08() -> float:
     """[Numeric] Berapa jumlah elemen dalam ruang sampel jika kita melempar dua buah
