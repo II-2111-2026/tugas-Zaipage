@@ -1,4 +1,4 @@
-"""Jawaban w01 — STUB (MAHASISWA)
+"""Jawaban w01 — STUB (MAHASISWA) - 18224054_Kayla Fiyaza Nawal Zaghbi
 
 Aturan pengisian:
 - Implementasikan fungsi q01()..q12() sesuai soal di weeks/w01/quiz.qmd
